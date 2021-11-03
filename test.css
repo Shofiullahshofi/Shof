@@ -1,0 +1,316 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.love{
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 30px;
+    height: 300px;
+    border-radius: 50px;
+}
+.love h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    color: beige;
+}
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 60px 30px;
+    padding: 20px 30px;
+}
+
+
+.head-1{
+    background-color: blue;
+    width: 600px;
+    height: 400px;
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: -20px 20px 20px rgba(0, 0, 0, 0.664);
+}
+.head-2{
+    background-color: blue;
+    width: 600px;
+    height: 400px;
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 30px;
+    box-shadow: -20px 20px 20px rgba(0, 0, 0, 0.664);
+}
+.head-3{
+    background-color: blue;
+    width: 600px;
+    height: 400px;
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: -20px 20px 20px rgba(0, 0, 0, 0.664);
+}
+
+
+.head-1 img{
+    height: 200px;
+    width: 300px;
+    box-shadow: -20px 20px 20px rgba(0, 0, 0, 0.664);
+}
+.head-2 img{
+    height: 200px;
+    width: 300px;
+    box-shadow: -20px 20px 20px rgba(0, 0, 0, 0.664);
+}
+.head-3 img{
+    height: 200px;
+    width: 300px;
+    box-shadow: -20px 20px 20px rgba(0, 0, 0, 0.664);
+}
+
+
+.head-1 h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: whitesmoke;
+    padding: 20px 0px;
+}
+.head-2 h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: whitesmoke;
+    padding: 20px 0px;
+}
+.head-3 h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: whitesmoke;
+    padding: 20px 0px;
+}
+
+
+.head-1 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: beige;
+    line-height: 20px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+.head-2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: beige;
+    line-height: 20px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+.head-3 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: beige;
+    line-height: 20px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.head-1 a{
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: blue;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 12px;
+}
+.head-2 a{
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: blue;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 12px;
+}
+.head-3 a{
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: blue;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 12px;
+}
+
+.head-1 a:hover{
+    background-color: blueviolet;
+    color: beige;
+}
+.head-2 a:hover{
+    background-color: blueviolet;
+    color: beige;
+}
+.head-3 a:hover{
+    background-color: blueviolet;
+    color: beige;
+}
+
+/* styling of heroin */
+
+.heroin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 60px 30px;
+    padding: 20px 30px;
+}
+
+
+.body-1{
+    background-color: crimson;
+    width: 600px;
+    height: 400px;
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: -30px 30px 30px rgba(0, 0, 0, 0.664);
+}
+.body-2{
+    background-color: crimson;
+    width: 600px;
+    height: 400px;
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 30px;
+    box-shadow: -30px 30px 30px rgba(0, 0, 0, 0.664);
+}
+.body-3{
+    background-color: crimson;
+    width: 600px;
+    height: 400px;
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: -30px 30px 30px rgba(0, 0, 0, 0.664);
+}
+
+
+.body-1 img{
+    height: 200px;
+    width: 300px;
+    box-shadow: -20px 20px 20px rgba(0, 0, 0, 0.764);
+}
+.body-2 img{
+    height: 200px;
+    width: 300px;
+    box-shadow: -20px 20px 20px rgba(0, 0, 0, 0.764);
+}
+.body-3 img{
+    height: 200px;
+    width: 300px;
+    box-shadow: -20px 20px 20px rgba(0, 0, 0, 0.764);
+}
+
+
+.body-1 h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: whitesmoke;
+    padding: 20px 0px;
+}
+.body-2 h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: whitesmoke;
+    padding: 20px 0px;
+}
+.body-3 h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: whitesmoke;
+    padding: 20px 0px;
+}
+
+
+.body-1 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: beige;
+    line-height: 20px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+.body-2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: beige;
+    line-height: 20px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+.body-3 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: beige;
+    line-height: 20px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.body-1 a{
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: blue;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 12px;
+}
+.body-2 a{
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: blue;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 12px;
+}
+.body-3 a{
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: blue;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 12px;
+}
+
+.body-1 a:hover{
+    background-color: blueviolet;
+    color: beige;
+}
+.body-2 a:hover{
+    background-color: blueviolet;
+    color: beige;
+}
+.body-3 a:hover{
+    background-color: blueviolet;
+    color: beige;
+}
